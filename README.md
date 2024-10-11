@@ -60,3 +60,22 @@ Since if an bad actor have access to the computer getting the access to the data
 it could also be left up for the user to decided if they wanted to run everything locally on their machine or having the logic and data stored on a server somewhere else. 
 
 i was original also going to do session timeouts so if the progran as left alone for a longer period of time the senstive data wouldnt be left unsupervised allowing for someone to take advantages of that.
+
+
+
+
+![login](https://github.com/user-attachments/assets/88c41e6f-e791-4b27-a315-da826e3e344f)
+![main](https://github.com/user-attachments/assets/44c6b9a4-f60c-48b7-b8db-fcf4f5dc9db3)
+![passwordsPNG](https://github.com/user-attachments/assets/07cd30fa-fd2c-457d-a1df-f32f5cc906bc)
+![Passwordgenerator](https://github.com/user-attachments/assets/9fb49666-5a1a-4561-81ad-4ed308ee8913)
+![addlogins](https://github.com/user-attachments/assets/02c9fc88-1b6d-43d9-9239-ffffa6940a17)
+
+
+
+
+
+
+
+
+
+![Adiagram](https://github.com/user-attachments/assets/6815cade-deb3-47f7-9551-de1e6a4d2404)
